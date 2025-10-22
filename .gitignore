@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.onnx
+*.caffemodel
+*.prototxt
+*.log
+.venv/
+.env
+.cache/
+outputs/
